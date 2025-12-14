@@ -2,10 +2,14 @@
   <h1><strong>Color Quantization using K-means Clustering</strong></h1>
   <p><strong>This project implements color quantization using the K-means clustering algorithm, a popular unsupervised machine learning technique.K-means clustering efficiently partitions all the pixels of an image into K clusters based on their color values, utilizing the centroid of each cluster as the representative color for all pixels within that cluster, thereby enabling users to reduce the number of colors in the image while maintaining visual quality. The application provides an intuitive GUI for users to browse an image, specify the number of colors for quantization, and save the quantized image.</strong></p> 
 
-![Screenshot (354)](https://github.com/Roodaki/Kmeans-Color-Quantization/assets/89901590/3bce0467-f3c7-4321-8b01-55d1acd9240d)
-![Screenshot (355)](https://github.com/Roodaki/Kmeans-Color-Quantization/assets/89901590/edfbd4ac-6049-478b-a788-e2676ee1211c)
-![Screenshot (357)](https://github.com/Roodaki/Kmeans-Color-Quantization/assets/89901590/f51792fc-a43a-4d0d-aaf8-c132d6812682)
-![Screenshot (363)](https://github.com/Roodaki/Kmeans-Color-Quantization/assets/89901590/393d2a48-a1b2-4858-b7e1-6b387be2d45e)
+![Screenshot (354)](<img width="625" height="415" alt="image" src="https://github.com/user-attachments/assets/67762acf-33ec-4194-aecc-20955efaad26" />
+)
+![Screenshot (355)](<img width="624" height="414" alt="image" src="https://github.com/user-attachments/assets/f0d66d54-0659-419f-bcc4-1c3fced120a9" />
+)
+![Screenshot (357)](<img width="621" height="414" alt="image" src="https://github.com/user-attachments/assets/f7184dcc-14ae-43be-bc4d-57fc7cbfdc17" />
+)
+![Screenshot (363)](<img width="624" height="409" alt="image" src="https://github.com/user-attachments/assets/458be9d1-76dc-4c5d-92af-d8267bb83219" />
+)
   
 </div>
 
